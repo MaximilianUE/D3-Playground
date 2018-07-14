@@ -6,3 +6,5 @@
 > Demo 2: basic functionality
 
 > Demo 3: Labels and Scale
+
+> Demo 5: Pie chart
